@@ -1,15 +1,18 @@
-## Greetings! Begrüßen!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&duration=3500&pause=1000&color=8BF71A&width=435&lines=hi+i'm+Millie+Green+%405r33n;f%C3%BCr+Harmonie+und+Chaos)](https://git.io/typing-svg)
+
 > "The sage has no invariable mind of his own; he makes the mind of the people his mind." [~ Tao Te Ching, chap 49](http://classics.mit.edu/Lao/taote.2.ii.html)
 
 The binary logic behind maths and computer science excites me because I can talk to them unambiguously and create tools to talk to the physical world and people as unequivocally as possible, depending on how precise yet perfect my tools are. Pure maths, esp abstract algebra, is comparable to sex for me; the apeal of the former is its absolute selflessness, that of the latter is its absolute selfishness. Love 'em ^^
 
-![5r33n's GitHub stats](https://github-readme-stats.vercel.app/api?username=5r33n&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![5r33n's GitHub stats](https://github-readme-stats.vercel.app/api?username=5r33n&show_icons=true&theme=merko) 
 
 #### contact, social links
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/988920311552548884) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/5r33n) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/5r33n_)
 
 #### fave langs
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### fave ML libs
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
