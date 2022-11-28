@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&duration=3500&pause=1000&color=8BF71A&width=435&lines=hi+i'm+Millie+Green+%405r33n;f%C3%BCr+Harmonie+und+Chaos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3500&pause=1000&color=8BF71A&width=500&lines=hi+i'm+Millie+Green+%405r33n;f%C3%BCr+Harmonie+und+Chaos)](https://git.io/typing-svg)
 
 > "The sage has no invariable mind of his own; he makes the mind of the people his mind." [~ Tao Te Ching, chap 49](http://classics.mit.edu/Lao/taote.2.ii.html)
 
